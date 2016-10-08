@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WordPaster2KindEditor3x"
+  id="myeclipse.1352875931296"
+  context-root="/WordPasterKindEditor3x"
+  j2ee-spec="5.0"
+  archive="WordPaster2KindEditor3x.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
