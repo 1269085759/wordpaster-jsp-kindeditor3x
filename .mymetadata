@@ -3,7 +3,7 @@
   type="WEB"
   name="WordPaster2KindEditor3x"
   id="myeclipse.1352875931296"
-  context-root="/WordPasterKindEditor3x"
+  context-root="/WordPaster2KindEditor3x"
   j2ee-spec="5.0"
   archive="WordPaster2KindEditor3x.war">
   <attributes>
