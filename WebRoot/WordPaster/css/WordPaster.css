@@ -21,10 +21,26 @@ div.UploaderItem a.Btn,div.UploaderItem a.Btn:hover{text-decoration: underline; 
 .panel-paster{font-family: 新宋体;font-size: 12px; background-color: #FFFFFF; height: 50px; width: 150px;}
 .panel-paster img{ float:left; border:0;}
 .panel-paster span{ float:left;}
+.panel-setup {padding:10px;}
 /**/
 .demoHeaders { margin-top: 2em; }
 #dialog_link {padding: .4em 1em .4em 20px;text-decoration: none;position: relative;}
 #dialog_link span.ui-icon {margin: 0 5px 0 0;position: absolute;left: .2em;top: 50%;margin-top: -8px;}
-.ke-icon-imagepaster{background-image: url(paster.png); width: 16px; height: 16px;}
-.ke-icon-excelpaster{background-image: url(excel.gif); width: 16px; height: 16px;}
-.ke-icon-netpaster{background-image: url(ico.png); width: 16px; height: 16px;}
+.ke-icon-wordpaster {
+        background-image: url(paster.png)!important;
+        background-position: 0px 0px;
+        width: 16px;
+        height: 16px;
+}
+.ke-icon-netpaster{
+        background-image: url(ico.png)!important;
+        background-position: 0px 0px;
+        width: 16px;
+        height: 16px;
+}
+.ke-icon-excelpaster{
+        background-image: url(excel.gif)!important;
+        background-position: 0px 0px;
+        width: 16px;
+        height: 16px;
+}
