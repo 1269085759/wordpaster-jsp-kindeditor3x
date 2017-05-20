@@ -6,6 +6,19 @@
 	更新记录：
 		2012-07-04 增加对IE9的支持。
 */
+KE.lang['imagepaster'] = "粘贴图片或自动上传Word图片";
+KE.plugin['imagepaster'] = {
+    click: function (id) {
+        pasterMgr.Paste();
+    }
+};
+//plugin-netimg
+KE.lang['netpaster'] = "自动上传远程服务器图片";
+KE.plugin['netpaster'] = {
+    click: function (id) {
+        pasterMgr.UploadNetImg();
+    }
+};
 
 //系统错误
 var WordPasterError = {
